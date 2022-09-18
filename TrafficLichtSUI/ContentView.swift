@@ -11,7 +11,7 @@ struct ContentView: View {
     
     @State private var lightIsOn = 1.0
     @State private var lightIsOff = 0.3
-    @State private var buttonTitle = "START"
+    @State private var buttonTitle = "START!"
     @State private var opacityRed = 0.3
     @State private var opacityYellow = 0.3
     @State private var opacityGreen = 0.3
